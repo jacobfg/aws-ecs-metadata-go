@@ -1,3 +1,3 @@
-module github.com/brunoscheufler/aws-ecs-metadata-go
+module github.com/jacobfg/aws-ecs-metadata-go
 
 go 1.14
